@@ -6,10 +6,10 @@ import mainFooter from './components/main/main-footer.vue';
 </script>
 
 <template>
-
-    <mainHeader/>
-    <RouterView />
-    <mainFooter/>
+    <header><mainHeader/></header>
+    <body><RouterView /></body>
+    <footer><mainFooter/></footer>
+    
 </template>
 
 <style scoped>

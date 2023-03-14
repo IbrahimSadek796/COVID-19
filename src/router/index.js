@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import HomeView from '@/views/HomeView.vue'
+import HomeView from '../views/HomeView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -12,12 +12,12 @@ const router = createRouter({
     {
       path: '/about',
       name: 'about',
-      component: () => import('@/views/AboutView.vue')
+      component: () => import('../views/AboutView.vue')
     },
     {
       path: '/symptoms',
       name: 'symptoms',
-      component: () => import('@/views/SymptomsView.vue')
+      component: () => import('../views/SymptomsView.vue')
     },
     {
       path: '/prevention',
@@ -27,22 +27,22 @@ const router = createRouter({
     {
       path: '/treatment',
       name: 'treatment',
-      component: () => import('@/views/TreatView.vue')
+      component: () => import('../views/TreatView.vue')
     },
     {
       path: '/question',
       name: 'question',
-      component: () => import('@/views/QuestionView.vue')
+      component: () => import('../views/QuestionView.vue')
     },
     {
       path: '/latest',
       name: 'latest',
-      component: () => import('@/views/LatestView.vue')
+      component: () => import('../views/LatestView.vue')
     },
     {
       path: '/dont',
       name: 'dont',
-      component: () => import('@/views/DontView.vue')
+      component: () => import('../views/DontView.vue')
     },
   ]
 })

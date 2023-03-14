@@ -1,11 +1,11 @@
 <script>
-import QuestionOne from '../components/questions/c-questioOne.vue'
-import QuestionTwo from '../components/questions/c-questionTwo.vue'
-import QuestionThree from '../components/questions/c-questionThree.vue'
-import QuestionFour from '../components/questions/c-questionFour.vue'
-import QuestionFive from '../components/questions/c-questionFive.vue'
-import QuestionSix from '../components/questions/c-questionSix.vue'
-import question from '../Data/question'
+import QuestionOne from '@/components/questions/c-questioOne.vue'
+import QuestionTwo from '@/components/questions/c-questionTwo.vue'
+import QuestionThree from '@/components/questions/c-questionThree.vue'
+import QuestionFour from '@/components/questions/c-questionFour.vue'
+import QuestionFive from '@/components/questions/c-questionFive.vue'
+import QuestionSix from '@/components/questions/c-questionSix.vue'
+import question from '@/Data/question'
 export default {
     components: {
         QuestionOne,

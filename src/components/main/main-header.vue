@@ -144,7 +144,7 @@ export default{
                 top: 0,
                 behavior: "smooth",
             });
-
+            
           for (let index = 0; index < this.isSelected.length; index++) {
            this.isSelected[index] = false ;
             

@@ -30,7 +30,7 @@
 
 <style scoped>
 .treatment {
-    background-image: url(../assets/image/shape-a.png);
+    background-image: url(@/assets/image/shape-a.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;

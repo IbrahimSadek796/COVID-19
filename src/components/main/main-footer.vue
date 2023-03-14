@@ -3,7 +3,7 @@
         <div class="overlay"></div>
         <div class="container">
             <div class="links">
-                <h2 class="navbar-brand" href="#">C<span><img src="../../assets/image/iconnew.png"></span>VID<span>19</span></h2>
+                <h2 class="navbar-brand" href="#">C<span><img src="@/@/assets/image/iconnew.png"></span>VID<span>19</span></h2>
                 <p>This website is for health information and advice about coronavirus (COVID-19), how to prevent and protect yourself from disease.</p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, temporibus!</p>
                 <div class="row g-2 py-5">
@@ -67,7 +67,7 @@
 
 <style scoped>
 .footer{
-    background-image: url(../../assets/image/shape-a.png);
+    background-image: url(@/@/assets/image/shape-a.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -88,7 +88,7 @@
     position: relative;
     color: #fff;
     padding-top: 50px;
-
+    
 }
 .footer .container .links{
     width: 70%;

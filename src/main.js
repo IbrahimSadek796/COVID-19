@@ -4,13 +4,13 @@ import router from './router'
 
 import 'bootstrap'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import 'bootstrap-icons/font/bootstrap-icons.css'
+// import 'bootstrap-icons/font/bootstrap-icons.css'
 import 'bootstrap/dist/css/bootstrap.css'
 import './assets/main.css'
-import './assets/main.js'
 
 const app = createApp(App)
 
 app.use(router)
 
 app.mount('#app')
+

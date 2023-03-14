@@ -9,7 +9,7 @@
                 <div class="col-md-3">
                     <div class="box my-5">
                         <div class="image">
-                            <img src="../../assets/image/advice-a.png" alt="">
+                            <img src="@/@/assets/image/advice-a.png" alt="">
                         </div>
                         <div class="info">
                             <h5>What your hands frequently</h5>
@@ -20,7 +20,7 @@
                 <div class="col-md-3">
                     <div class="box my-5">
                         <div class="image">
-                            <img src="../../assets/image/advice-b.png" alt="">
+                            <img src="@/@/assets/image/advice-b.png" alt="">
                         </div>
                         <div class="info">
                             <h5>Maintain social distancing</h5>
@@ -31,7 +31,7 @@
                 <div class="col-md-3">
                     <div class="box my-5">
                         <div class="image">
-                            <img src="../../assets/image/advice-c.png" alt="">
+                            <img src="@/@/assets/image/advice-c.png" alt="">
                         </div>
                         <div class="info">
                             <h5>Avoid touching face</h5>
@@ -42,7 +42,7 @@
                 <div class="col-md-3">
                     <div class="box my-5">
                         <div class="image">
-                            <img src="../../assets/image/advice-d.png" alt="">
+                            <img src="@/@/assets/image/advice-d.png" alt="">
                         </div>
                         <div class="info">
                             <h5>Practice respiratory hygience</h5>
@@ -52,8 +52,8 @@
                 </div>
             </div>
             <div class="link text-center mt-5">
-                <RouterLink to="#steps" class=" btn btn-outline-primary text-light bg-primary me-3">Check how you wash hand <i class="bi bi-arrow-right-short fs-2 fw-bold ms-3"></i></RouterLink>
-                <RouterLink to="#question" class=" btn text-primary">Q&A on Coronavirus <i class="bi bi-arrow-right-short fs-2 fw-bold ms-3"></i></RouterLink>
+                <RouterLink to="/steps" class=" btn btn-outline-primary text-light bg-primary me-3">Check how you wash hand <i class="bi bi-arrow-right-short fs-2 fw-bold ms-3"></i></RouterLink>
+                <RouterLink to="/question" class=" btn text-primary">Q&A on Coronavirus <i class="bi bi-arrow-right-short fs-2 fw-bold ms-3"></i></RouterLink>
             </div>
         </div>
     </div>

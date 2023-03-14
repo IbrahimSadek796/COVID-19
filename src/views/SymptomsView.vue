@@ -9,7 +9,7 @@
                 <div class="col-md-4">
                     <div class="box bg-body rounded shadow my-5">
                         <div class="image">
-                            <img src="../assets/image/symptom-a.png" alt="">
+                            <img src="@/assets/image/symptom-a.png" alt="">
                         </div>
                         <div class="info">
                             <h5>Fever</h5>
@@ -20,7 +20,7 @@
                 <div class="col-md-4">
                     <div class="box bg-body rounded shadow my-5">
                         <div class="image">
-                            <img src="../assets/image/symptom-b.png" alt="">
+                            <img src="@/assets/image/symptom-b.png" alt="">
                         </div>
                         <div class="info">
                             <h5>Cough</h5>
@@ -31,7 +31,7 @@
                 <div class="col-md-4">
                     <div class="box bg-body rounded shadow my-5">
                         <div class="image">
-                            <img src="../assets/image/symptom-c.png" alt="">
+                            <img src="@/assets/image/symptom-c.png" alt="">
                         </div>
                         <div class="info">
                             <h5>Shortness of breath</h5>

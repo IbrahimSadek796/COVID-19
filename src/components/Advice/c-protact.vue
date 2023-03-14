@@ -37,7 +37,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="image position-relative">
-                        <img src="../../assets/image/steps.png" alt="" srcset="">
+                        <img src="@/@/assets/image/steps.png" alt="" srcset="">
                     </div>
                 </div>
             </div>

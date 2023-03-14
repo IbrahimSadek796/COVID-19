@@ -26,14 +26,14 @@
                             <p>Social Distancing</p>
                             <div class="img">
                                 <i class="bi bi-x-circle-fill"></i>
-                                <img src="../assets/image/donts-c.png" alt="">
+                                <img src="@/assets/image/donts-c.png" alt="">
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mt-5 pt-4">
                     <div class="image">
-                        <img class="w-100" src="../assets/image/protect.png" alt="">
+                        <img class="w-100" src="@/assets/image/protect.png" alt="">
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -41,21 +41,21 @@
                         <div class="gre-image">
                             <div class="img">
                                 <i class="bi bi-x-circle-fill"></i>
-                                <img src="../assets/image/donts-a.png" alt="">
+                                <img src="@/assets/image/donts-a.png" alt="">
                             </div>
                             <p>Avoid Close Contact</p>
                         </div>
                         <div class="gre-image">
                             <div class="img">
                                 <i class="bi bi-x-circle-fill"></i>
-                                <img src="../assets/image/donts-b.png" alt="">
+                                <img src="@/assets/image/donts-b.png" alt="">
                             </div>
                             <p>Don't Touch Face</p>
                         </div>
                         <div class="gre-image">
                             <div class="img">
                                 <i class="bi bi-x-circle-fill"></i>
-                                <img src="../assets/image/donts-c.png" alt="">
+                                <img src="@/assets/image/donts-c.png" alt="">
                             </div>
                             <p>Social Distancing</p>
                         </div>

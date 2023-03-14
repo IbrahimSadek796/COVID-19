@@ -8,7 +8,7 @@
                 <div class="col-md-4">
                     <div class="box bg-body rounded shadow my-5 p-3">
                         <div class="image">
-                            <img src="../assets/image/blog-a.jpg" alt="">
+                            <img src="@/assets/image/blog-a.jpg" alt="">
                         </div>
                         <div class="info">
                             <h5>Caring for Some One At Home</h5>
@@ -19,7 +19,7 @@
                 <div class="col-md-4">
                     <div class="box bg-body rounded shadow my-3 px-3 py-5">
                         <div class="image">
-                            <img src="../assets/image/blog-b.jpg" alt="">
+                            <img src="@/assets/image/blog-b.jpg" alt="">
                         </div>
                         <div class="info">
                             <h5>15 Ways to kape safe and helthy</h5>
@@ -30,7 +30,7 @@
                 <div class="col-md-4">
                     <div class="box bg-body rounded shadow my-5 p-3">
                         <div class="image">
-                            <img src="../assets/image/blog-c.jpg" alt="">
+                            <img src="@/assets/image/blog-c.jpg" alt="">
                         </div>
                         <div class="info">
                             <h5>If you think you are sick</h5>

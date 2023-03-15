@@ -9,7 +9,7 @@
                 <div class="col-lg-2 col-md-4 col-sm-6">
                     <div class="box">
                         <div class="image">
-                            <img src="@/@/assets/image/hand-a.png" alt="">
+                            <img src="../../assets/image/hand-a.png" alt="">
                         </div>
                         <div class="text py-4">
                             <span>Soap on Hands</span>
@@ -19,7 +19,7 @@
                 <div class="col-lg-2 col-md-4 col-sm-6">
                     <div class="box">
                         <div class="image">
-                            <img src="@/@/assets/image/hand-b.png" alt="">
+                            <img src="../../assets/image/hand-b.png" alt="">
                         </div>
                         <div class="text py-4">
                             <span>Plam on Plam</span>
@@ -29,7 +29,7 @@
                 <div class="col-lg-2 col-md-4 col-sm-6">
                     <div class="box">
                         <div class="image">
-                            <img src="@/@/assets/image/hand-c.png" alt="">
+                            <img src="../../assets/image/hand-c.png" alt="">
                         </div>
                         <div class="text py-4">
                             <span>Between Fingers</span>
@@ -39,7 +39,7 @@
                 <div class="col-lg-2 col-md-4 col-sm-6">
                     <div class="box">
                         <div class="image">
-                            <img src="@/@/assets/image/hand-d.png" alt="">
+                            <img src="../../assets/image/hand-d.png" alt="">
                         </div>
                         <div class="text py-4">
                             <span>Back to Hands</span>
@@ -49,7 +49,7 @@
                 <div class="col-lg-2 col-md-4 col-sm-6">
                     <div class="box">
                         <div class="image">
-                            <img src="@/@/assets/image/hand-e.png" alt="">
+                            <img src="../../assets/image/hand-e.png" alt="">
                         </div>
                         <div class="text py-4">
                             <span>Clean with Water</span>
@@ -59,7 +59,7 @@
                 <div class="col-lg-2 col-md-4 col-sm-6">
                     <div class="box">
                         <div class="image">
-                            <img src="@/@/assets/image/hand-f.png" alt="">
+                            <img src="../../assets/image/hand-f.png" alt="">
                         </div>
                         <div class="text py-4">
                             <span>Focus on Wrist</span>

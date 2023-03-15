@@ -12,14 +12,14 @@
                             <p>Avoid Close Contact</p>
                             <div class="img">
                                 <i class="bi bi-x-circle-fill"></i>
-                                <img src="../assets/image/donts-a.png" alt="">
+                                <img src="@/assets/image/donts-a.png" alt="">
                             </div>
                         </div>
                         <div class="sm-image">
                             <p>Don't Touch Face</p>
                             <div class="img">
                                 <i class="bi bi-x-circle-fill"></i>
-                                <img src="../assets/image/donts-b.png" alt="">
+                                <img src="@/assets/image/donts-b.png" alt="">
                             </div>
                         </div>
                         <div class="sm-image">

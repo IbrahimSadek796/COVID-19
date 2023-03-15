@@ -11,7 +11,7 @@
                 <div class="col-md-4">
                     <div class="box bg-body rounded shadow my-5">
                         <div class="image">
-                            <img src="@/@/assets/image/spread-a.png" alt="">
+                            <img src="../../assets/image/spread-a.png" alt="">
                         </div>
                         <div class="info">
                             <h5>Person-to-Person spread as close contact with infacted</h5>
@@ -23,7 +23,7 @@
                 <div class="col-md-4">
                     <div class="box bg-body rounded shadow my-5">
                         <div class="image">
-                            <img src="@/@/assets/image/spread-b.png" alt="">
+                            <img src="../../assets/image/spread-b.png" alt="">
                         </div>
                         <div class="info">
                             <h5>Touching our contact with infacted surfaces of objacts</h5>
@@ -35,7 +35,7 @@
                 <div class="col-md-4">
                     <div class="box bg-body rounded shadow my-5">
                         <div class="image">
-                            <img src="@/@/assets/image/spread-c.png" alt="">
+                            <img src="../../assets/image/spread-c.png" alt="">
                         </div>
                         <div class="info">
                             <h5>Droplets that from infacted person coughs or sneezes</h5>

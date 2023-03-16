@@ -2,14 +2,19 @@
 import { RouterLink, RouterView } from 'vue-router'
 import mainHeader from './components/main/main-header.vue';
 import mainFooter from './components/main/main-footer.vue';
+import ToUp from './components/icons/ToUp.vue'
 
 </script>
 
 <template>
-    <header><mainHeader/></header>
-    <body><RouterView /></body>
-    <footer><mainFooter/></footer>
+    <body>
+        <header><mainHeader/></header>
     
+        <RouterView />
+        <ToUp/>
+
+        <footer><mainFooter/></footer>
+    </body>
 </template>
 
 <style scoped>

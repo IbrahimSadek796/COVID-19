@@ -3,7 +3,7 @@
         <div class="container">
             <div class="main-title">
                 <h2 class="mb-3">symptoms of covid-19</h2>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque, at error! Dolorem, saepe dolorum error ut esse vel, asperiores animi perspiciatis itaque cum placeat ratione aspernatur dicta odio fugiat minima.</p>
+                <p>The most common symptoms of COVID-19 are fever, tiredness, and dry cough. Some patients may have aches and pains, nasal congestion, runny nose,sore throat or diarrhea. These symptoms are usually mild and begin gradually. Also the symproms may appear 2-14 days after exposure.</p>
             </div>
             <div class="row mt-5">
                 <div class="col-md-4">
@@ -13,7 +13,7 @@
                         </div>
                         <div class="info">
                             <h5>Fever</h5>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempora ducimus porro vitae officia nulla provident sunt in nostrum natus repellat?</p>
+                            <p><span>High Fever - </span>this means you feel hot to touch on your chest or back (you do not need to measure your temperature). It is a common sign and also may appear in 2-10 days if you affected.</p>
                         </div>
                     </div>
                 </div>
@@ -24,7 +24,7 @@
                         </div>
                         <div class="info">
                             <h5>Cough</h5>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempora ducimus porro vitae officia nulla provident sunt in nostrum natus repellat?</p>
+                            <p><span>Continuous cough - </span>this means coughing a lot for more than an hour, or 3 or more coughing episodes in 24 hours(if you usually have a cough, it may be worse than usual)</p>
                         </div>
                     </div>
                 </div>
@@ -35,7 +35,7 @@
                         </div>
                         <div class="info">
                             <h5>Shortness of breath</h5>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempora ducimus porro vitae officia nulla provident sunt in nostrum natus repellat?</p>
+                            <p><span>Difficulty breathing - </span>Around 1 out of every 6 people who gets COVID-19 becomes seriously ill and develop difficulty breathing or shortness of breath</p>
                         </div>
                     </div>
                 </div>
@@ -43,9 +43,9 @@
             <div class="link text-center mt-5">
                 <div class="text">
                     <i class="bi bi-exclamation-triangle-fill fs-2 text-primary me-2"></i>
-                    <p><span>Stay at home and call your doctor: </span>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime ipsam eius illo ipsa eaque accusamus, quaerat voluptatem deleniti dolores voluptatibus neque repudiandae delectus necessitatibus, sapiente similique tempora quod fugiat officia error reiciendis modi itaque earum corporis nulla. Consequatur, enim dignissimos.</p>
+                    <p><span>Stay at home and call your doctor: </span>If you think you have been exposed to COVID-19 and develop a fever and any symptoms, such as cough or difficulty breathing, call your healthcare provider as soon as possible for medical advice.</p>
                 </div>
-                <RouterLink to="/question" class=" btn btn-outline-primary text-light bg-primary"><i class="bi bi-question-circle me-2"></i>  Have question about spreading?</RouterLink>
+                <RouterLink to="/question" class=" btn btn-outline-primary text-light bg-primary p-2"><i class="bi bi-question-circle me-2"></i>  Have question about spreading?</RouterLink>
             </div>
         </div>
     </section>

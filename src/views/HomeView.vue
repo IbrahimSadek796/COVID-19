@@ -5,7 +5,7 @@
                 <div class="col-md-6">
                     <div class="text">
                         <h1 class="mb-3">corona</h1>
-                        <p>The coronavirus (COVID-19) was first reported in Wuhan, Hunei,China in December 2019 , the outbreak was later recognized as apandemic by the World Health Organization (WHO) on 11 March 2020.</p>
+                        <p>The coronavirus (COVID-19) was first reported in Wuhan, Hunei,China in December 2019 , the outbreak was later recognized as apandemic by the World Health Organization (WHO) on 11 March 2020..</p>
                     </div>
                     <div class="link">
                         <RouterLink to="/prevention" class="btn btn-outline-primary text-light bg-primary">How To Protect 

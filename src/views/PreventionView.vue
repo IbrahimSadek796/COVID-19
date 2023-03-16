@@ -10,9 +10,9 @@
 
 
 <script>
-    import CoPrevent from '@/components/Advice/c-prevention.vue'
-    import CoProtact from '@/components/Advice/c-protact.vue'
-    import CoSteps from '@/components/Advice/c-Steps.vue'
+    import CoPrevent from '../components/Advice/c-prevention.vue'
+    import CoProtact from '../components/Advice/c-protact.vue'
+    import CoSteps from '../components/Advice/c-Steps.vue'
     export default {
         components: {
             CoPrevent,

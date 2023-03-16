@@ -22,7 +22,7 @@ const router = createRouter({
     {
       path: '/prevention',
       name: 'prevention',
-      component: () => import('../views/preventionView.vue'),
+      component: () => import('../views/PreventionView.vue'),
     },
     {
       path: '/treatment',

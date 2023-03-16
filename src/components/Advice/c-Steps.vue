@@ -3,7 +3,7 @@
         <div class="container">
             <div class="title">
                 <h2>Follow steps to wash hands</h2>
-                <RouterLink to="#">why do I need to wash hands <i class="bi bi-arrow-right-short fs-2 fw-bold ms-3"></i></RouterLink>
+                <RouterLink to="/">why do I need to wash hands <i class="bi bi-arrow-right-short fs-2 fw-bold ms-3"></i></RouterLink>
             </div>
             <div class="row mt-5 py-5">
                 <div class="col-lg-2 col-md-4 col-sm-6">
